@@ -1,0 +1,59 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Estilos generales para el cuerpo de la página */
+body {
+  background-color: hsl(212, 45%, 89%); /* Slate 300 */
+  font-family: "Outfit", sans-serif;
+  display: flex; /* Para centrar el contenido */
+  flex-direction: column;
+  justify-content: center; /* Centrar horizontalmente */
+  align-items: center; /* Centrar verticalmente */
+  min-height: 100vh; /* Ocupar el 100% de la altura de la ventana */
+  margin: 0; /* Eliminar márgenes por defecto */
+}
+
+.qr-card {
+  max-width: 320px;
+  width: 100%;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 0 15px 25px rgba(0, 0, 0, 0.1); /* sombra sutil para realce */
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.qr-image {
+  width: 100%;
+  border-radius: 12px;
+  display: block;
+}
+
+.qr-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: hsl(218, 44%, 22%);
+  text-align: center;
+  margin: 20px 0 10px;
+}
+
+.qr-description {
+  font-size: 15px;
+  font-weight: 400;
+  color: hsl(220, 15%, 55%);
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.attribution {
+  margin-top: 5px;
+  font-size: 11px;
+  text-align: center;
+  color: hsl(228, 45%, 44%);
+}
