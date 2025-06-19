@@ -23,8 +23,8 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [GitHub Repo](https://github.com/ivandiaz/qr-code-component)
-- Live Site URL: [Live demo](https://ivandiaz-qr-code-component.vercel.app)
+- Solution URL: [GitHub Repo](https://github.com/ivandiaz333/qr-code-component-main)
+- Live Site URL: [Live demo](https://qr-code-component-i-diaz.netlify.app/)
 
 > 🔗 Reemplaza las URLs si usas otro nombre o plataforma (como Netlify).
 
